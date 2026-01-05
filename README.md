@@ -12,7 +12,6 @@
   - [4. Pengaruh Waktu Penjualan terhadap Volume](#4-pengaruh-waktu-penjualan-terhadap-volume)
   - [5. Pengaruh Channel Transaksi](#5-pengaruh-channel-transaksi)
 - [Struktur Repository](#struktur-repository)
-- [Cara Menjalankan Proyek](#cara-menjalankan-proyek)
 - [Penulis](#penulis)
 
 ---
@@ -139,4 +138,13 @@ fastfood-sales-analysis/
 │
 ├── requirements.txt
 ├── environment.yml
+
 └── readme.md
+````
+
+---
+
+## Penulis
+**Muhammad Luthfi**  
+S1 Teknik Informatika – Universitas Muhammadiyah Malang
+Fokus: Data Analysis & Data Engineering
